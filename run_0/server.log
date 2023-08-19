@@ -1,0 +1,6 @@
+Server logs while test ran:
+output was:
+Request finished with status 404. (execution time: 3.0 ms, total latency: 2638.5 ms)
+Request finished with status 404. (execution time: 2.8 ms, total latency: 149.6 ms)
+
+stderr was:

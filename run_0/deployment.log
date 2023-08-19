@@ -1,0 +1,26 @@
+Result of running `modal deploy main_modal.py:
+
+stdout:
+tored in directory: /tmp/pip-ephem-wheel-cache-qd2dqpv2/wheels/fa/fb/b2/2292cd964281a53e10f53d8c1cce46eab742ce51c842d9e150
+  Building wheel for grpclib (pyproject.toml): started
+  Building wheel for grpclib (pyproject.toml): finished with status 'done'
+  Created wheel for grpclib: filename=grpclib-0.4.3-py3-none-any.whl size=77058 sha256=18759793457e36188154fbdbf7a4206646e63a3c228d4bf07bd185a2a943739c
+  Stored in directory: /tmp/pip-ephem-wheel-cache-qd2dqpv2/wheels/25/57/98/c29fb3e5e4d64a5559c36c38802215bb609b4c7394a9c907b0
+Successfully built aiostream grpclib
+Installing collected packages: wcwidth, types-toml, types-certifi, pure-eval, ptyprocess, pickleshare, executing, commonmark, backcall, aiostream, zipp, typing-extensions, traitlets, toml, tblib, sniffio, six, python-multipart, pygments, protobuf, prompt-toolkit, pexpect, parso, numpy, multidict, idna, hyperframe, hpack, frozenlist, decorator, cloudpickle, click, charset-normalizer, certifi, attrs, async-timeout, asgiref, yarl, typer, typeguard, rich, pydantic, matplotlib-inline, jedi, importlib_metadata, h2, fastprogress, asttokens, anyio, aiosignal, starlette, stack-data, grpclib, aiohttp, ipython, fastapi
+Successfully installed aiohttp-3.8.3 aiosignal-1.3.1 aiostream-0.4.4 anyio-3.7.1 asgiref-3.5.2 asttokens-2.2.1 async-timeout-4.0.3 attrs-23.1.0 backcall-0.2.0 certifi-2023.7.22 charset-normalizer-2.1.1 click-8.1.7 cloudpickle-2.2.0 commonmark-0.9.1 decorator-5.1.1 executing-1.2.0 fastapi-0.88.0 fastprogress-1.0.0 frozenlist-1.4.0 grpclib-0.4.3 h2-4.1.0 hpack-4.0.0 hyperframe-6.0.1 idna-3.4 importlib_metadata-4.8.1 ipython-8.14.0 jedi-0.19.0 matplotlib-inline-0.1.6 multidict-6.0.4 numpy-1.25.2 parso-0.8.3 pexpect-4.8.0 pickleshare-0.7.5 prompt-toolkit-3.0.39 protobuf-4.24.1 ptyprocess-0.7.0 pure-eval-0.2.2 pydantic-1.10.12 pygments-2.16.1 python-multipart-0.0.6 rich-12.3.0 six-1.16.0 sniffio-1.3.0 stack-data-0.6.2 starlette-0.22.0 tblib-1.7.0 toml-0.10.2 traitlets-5.9.0 typeguard-4.1.2 typer-0.6.1 types-certifi-2021.10.8.3 types-toml-0.10.4 typing-extensions-4.7.1 wcwidth-0.2.6 yarl-1.9.2 zipp-3.16.2
+Creating image snapshot...
+Finished snapshot; took 683.26ms
+
+Built image im-IERU9vJQVMAbsA9AeqMoae in 24.69s
+✓ Created objects.
+├── 🔨 Created primary_function => https://sudocode-ai--dct7tgtf4.modal.run
+├── 🔨 Created mount 
+│   /app/generated_files/a311dc31-38de-4b06-996c-bc8aa5bdff0c/main_modal.py
+└── 🔨 Created mount .
+✓ App deployed! 🎉
+
+View Deployment: https://modal.com/apps/sudocode-ai/dct7tgtf4
+
+Part of this log has been truncated for brevity
+stderr:
